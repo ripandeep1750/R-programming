@@ -25,3 +25,12 @@ print(result)
 # Justfy string with center.
 result <- format("Hello", width = 8, justify = "c")
 print(result)
+
+OUTPUT:-
+[1] "23.1234568"
+[1] "6.000000e+00" "1.314521e+01"
+[1] "23.47000"
+[1] "6"
+[1] "  13.7"
+[1] "Hello   "
+[1] " Hello  "
